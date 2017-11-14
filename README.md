@@ -6,9 +6,9 @@ This projecct has the sprites for a 2D-stilized version of Unity's ADAM characte
 
 If I have time, I will add a controller for Adam, so you can play around with it.
 
-The animations were made by the talented artists ![@Okuroy](https://twitter.com/okuroy) and ![@Sparrowspell](https://twitter.com/Sparrowspell)
+The animations were made by the talented artists @Okuroy(https://twitter.com/okuroy) and @Sparrowspell(https://twitter.com/Sparrowspell)
 
 # License Details:
 
 - You can use these assets for anything but for commercial use. 
-- The owner of ADAM is ![Unity Technologies](https://www.unity3d.com/)
+- The owner of ADAM is Unity Technologies(https://www.unity3d.com/)
