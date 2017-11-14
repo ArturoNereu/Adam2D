@@ -11,4 +11,4 @@ The animations were made by the talented artists ![@Okuroy](https://twitter.com/
 # License Details:
 
 - You can use these assets for anything but for commercial use. 
-- The owner of ADAM is ![Unity Technologies](unity3d.com/)
+- The owner of ADAM is ![Unity Technologies](https://www.unity3d.com/)
