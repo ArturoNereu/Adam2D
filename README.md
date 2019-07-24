@@ -6,7 +6,7 @@ This projecct has the sprites for a 2D-stilized version of Unity's ADAM characte
 
 If I have time, I will add a controller for Adam, so you can play around with it
 
-If you just want the textures, then they are here: (https://t.co/roro6ZdUzQ)
+If you just want the textures, then they are here: (https://github.com/ArturoNereu/Adam2D/tree/master/AdamGame/Assets/Textures)
 
 The animations were made by the talented artists @Okuroy(https://twitter.com/okuroy) and @Sparrowspell(https://twitter.com/Sparrowspell)
 
